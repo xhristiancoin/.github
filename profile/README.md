@@ -1,6 +1,5 @@
 [![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
 [![GitHub Org's stars](https://img.shields.io/github/stars/xhristiancoin?style=social)](https://github.com/xhristiancoin)
-[![GitHub Followers](https://img.shields.io/github/followers/xhristiancoin)](https://github.com/xhristiancoin)
 [![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
 
 # Welcome to the $XHRISTIAN Protocol Organization
