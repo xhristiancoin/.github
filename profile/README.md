@@ -1,4 +1,7 @@
-# 🛡️ Welcome to the $XHRISTIAN Protocol Organization
+[![$XHRISTIAN Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
+![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)
+
+# Welcome to the $XHRISTIAN Protocol Organization
 
 This organization maintains the canonical, version-controlled documentation for the $XHRISTIAN ecosystem. It hosts the definitive record of the project's foundational axioms, narrative, and governing commandments, serving as the authoritative rule set for all community standards and interactions. The specification defines the protocol's core intent and establishes the principles for its sustained evolution.
 
