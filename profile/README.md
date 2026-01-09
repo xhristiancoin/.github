@@ -1,17 +1,23 @@
-[![Telegram Badge](https://telegram-badge.vercel.app/api/telegram-badge?channelId=@xhristiancoin)](https://t.me/xhristiancoin)
-[![X Follow](https://img.shields.io/twitter/follow/xhristiancoin.svg?style=social)](https://x.com/xhristiancoin)
+# XHRISTIAN Protocol Organization
 
-# Welcome to the $XHRISTIAN Protocol Organization
+Welcome to the official GitHub organization for the $XHRISTIAN project. This organization hosts the core documentation, transparent records, and governance structure for the project.
 
-This organization maintains the canonical, version-controlled documentation for the $XHRISTIAN ecosystem. It hosts the definitive record of the project's foundational axioms, narrative, and governing commandments, serving as the authoritative rule set for all community standards and interactions. The specification defines the protocol's core intent and establishes the principles for its sustained evolution.
+## 📄 Where to Find Information
 
-## ⚙️ Foundation
+All project information is organized into repositories.
 
-This documentation acts as the foundational node, explicitly defining the parameters for community engagement and contribution. It creates a deterministic pathway from declared principle to documented practice, ensuring all activity aligns with the protocol's formalized social contract. The documentation is written for rigor and longevity, emphasizing transparent, rule-based participation built on human principles over predictions.
+*   **Project Specification (`protocol` repository)**
+    Contains the official contract address, tokenomics, and on-chain verification proofs.
 
-## 🛠️ For Contributors and Community Managers
+*   **Community Resources (`community` wiki)**
+    Explore the project's narrative, guides for token holders, and join community channels.
 
-This organization is for those prepared to define, audit, and evolve the logical frameworks that govern decentralized participation. Contributions here directly shape the structural integrity and future trajectory of the $XHRISTIAN protocol, establishing a coordination layer for the community defined by its principles.
+*   **Governance Framework (`governance` repository)**
+    Outlines the long-term management framework, including procedures for the future evolution and security of the project, ensuring its sustainability beyond any single individual.
+
+## 🛡️ Foundation & Commitment
+
+This organization is built on principles of transparency, sustainability and disciplined, long-term governance. The documentation is publicly available for review, and the governance model is designed to support the project's long-term vision, community, and a foundation for trust.
 
 ---
-*The runtime execution and state of the protocol are verifiable on the Solana blockchain, and is discussed within associated public community channels.*
+*This organization hosts project's formal documentation. All live transactions and token activity occur on the Solana network.*
