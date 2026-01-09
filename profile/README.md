@@ -1,23 +1,19 @@
-# XHRISTIAN Protocol Organization
+# XHRISTIAN Project Organization
 
-Welcome to the official GitHub organization for the $XHRISTIAN project. This organization hosts the core documentation, transparent records, and governance structure for the project.
+Welcome to the official GitHub organization for the $XHRISTIAN project. This organization serves as the primary source for project documentation, verification references, and governance records.
 
-## 📄 Where to Find Information
+## 📄 Documentation & Resources
 
-All project information is organized into repositories.
+Project information is organized across the following repositories:
 
-*   **Project Specification (`protocol` repository)**
-    Contains the official contract address, tokenomics, and on-chain verification proofs.
+### Protocol Documentation (`xhristian-protocol` repository)
+Contains the official contract address, token supply details, and on-chain verification references.
 
-*   **Community Resources (`community` wiki)**
-    Explore the project's narrative, guides for token holders, and join community channels.
+### Community Resources (`xhristian-community` wiki)
+Provides narrative context, token holder guides, and links to public community discussions.
 
-*   **Governance Framework (`governance` repository)**
-    Outlines the long-term management framework, including procedures for the future evolution and security of the project, ensuring its sustainability beyond any single individual.
-
-## 🛡️ Foundation & Commitment
-
-This organization is built on principles of transparency, sustainability and disciplined, long-term governance. The documentation is publicly available for review, and the governance model is designed to support the project's long-term vision, community, and a foundation for trust.
+### Governance Framework (`xhristian-governance` repository)
+Documents the project’s governance approach, including principles for transparency and long-term stewardship.
 
 ---
-*This organization hosts project's formal documentation. All live transactions and token activity occur on the Solana network.*
+*This organization serves formal, non-commercial documentation only. All live token activity occurs on the Solana network.*
